@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Introduce 
 
 Sejong University 
