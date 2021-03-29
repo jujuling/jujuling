@@ -2,7 +2,7 @@
 
 - Sejong University 
 - Information Security 18
-   Hajuhyun
+- Hajuhyun
 
 
 <!--
