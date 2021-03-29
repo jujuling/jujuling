@@ -1,4 +1,10 @@
 ### Hi there 👋
+### Introduce 
+
+Sejong University 
+Information Security 18
+Hajuhyun
+
 
 <!--
 **jujuling/jujuling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
