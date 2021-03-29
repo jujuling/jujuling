@@ -1,8 +1,8 @@
 ### Introduce 
 
-Sejong University 
-Information Security 18
-Hajuhyun
+- Sejong University 
+- Information Security 18
+- Hajuhyun
 
 
 <!--
